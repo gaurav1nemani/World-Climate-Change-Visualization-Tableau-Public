@@ -6,10 +6,11 @@ Tableau project for interactive visualization of climate change. This project sh
 ## Link for Tableau Public published story:
 
 https://public.tableau.com/app/profile/gaurav.nemani/viz/WorldClimateChangeProject/Story1?publish=yes 
+
 ## Sample Screenshots
 
-![Title Page](https://iesegnet-my.sharepoint.com/:i:/g/personal/gaurav_nemani_ieseg_fr/EfTgBDESnudOo3CT7X0tyecBSeWnwsBIugaM65juyWCAVQ?e=p9tIfL)
+<img width="1920" height="1080" alt="WCC Temp" src="https://github.com/user-attachments/assets/972e08da-72da-4ecc-a7a7-17a1bdfc5309" />
 
-![It is getting Hotter](https://iesegnet-my.sharepoint.com/:i:/g/personal/gaurav_nemani_ieseg_fr/Eezo1gMzfIVAoxFjNKPoB_sBwoWpFjWYmt5DLaGo06SCwQ?e=u7D9JZ)
+<img width="1920" height="1080" alt="WCC Water" src="https://github.com/user-attachments/assets/4a6b2814-dbf9-44ff-a314-4298f86eaeee" />
 
-![The Ocean Levels keep rising](https://iesegnet-my.sharepoint.com/:i:/g/personal/gaurav_nemani_ieseg_fr/EW_vMr7cCVFPuEN2C6Vu5YUB02gQTflhknrJEHxDFrBqEA?e=jKN0R6)
+<img width="1920" height="1080" alt="WCC Title Page" src="https://github.com/user-attachments/assets/9784a1a5-622f-4d8e-8afe-98a64032f8de" />
